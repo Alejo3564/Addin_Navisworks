@@ -27,16 +27,7 @@ This project provides **one DLL** that integrates **three EGIS plugins** under a
 EGIS_SmartTools_Install
 
 ├── Install_EGISSmartTools.bat   # Installer script
-├── EGISSmartTools.dll
-├── Microsoft.Web.WebView2.Core.dll
-├── Microsoft.Web.WebView2.WinForms.dll
-├── WebView2Loader.dll
-├── DocumentFormat.OpenXml.dll
-├── RibbonLayout.xaml
-└── Images
-├── clash_16.png / clash_32.png
-├── sv_16.png    / sv_32.png
-└── prop_16.png  / prop_32.png
+
 
 ## 🧩 Notes
 
