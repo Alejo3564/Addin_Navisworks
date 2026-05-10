@@ -25,6 +25,7 @@ This project provides **one DLL** that integrates **three EGIS plugins** under a
 ## 📁 Installation Package Structure
 
 EGIS_SmartTools_Install
+
 ├── Install_EGISSmartTools.bat   # Installer script
 ├── EGISSmartTools.dll
 ├── Microsoft.Web.WebView2.Core.dll
